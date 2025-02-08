@@ -9,7 +9,7 @@
 
 3. Disease prediction project on Jupyter Notebook| BTech project	https://youtu.be/czIgZRyhZks?si=8yY1P9H0E7u6LY7W
 
-4 .React AI Chatbot	https://youtu.be/HbeIiQgDtFw?si=sHvntoySImOrMB1H
+4. React AI Chatbot	https://youtu.be/HbeIiQgDtFw?si=sHvntoySImOrMB1H
 
 5. Android Malware Detection Project	https://youtu.be/Qfrshjn38JY?si=0_6xKJcJNEQtia2X
 
